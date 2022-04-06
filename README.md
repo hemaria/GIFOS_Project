@@ -1,2 +1,2 @@
 # GIFOS_Project
-final load for Acamica gif os project
+final load gif os project
